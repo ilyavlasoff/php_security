@@ -80,4 +80,3 @@ SELECT pg_catalog.setval('public.articles_id_seq', 3, true);
 --
 -- PostgreSQL database dump complete
 --
-
